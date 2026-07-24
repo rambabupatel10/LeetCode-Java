@@ -72,8 +72,13 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0143-reorder-list) |
+| [0707-design-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0143-reorder-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
