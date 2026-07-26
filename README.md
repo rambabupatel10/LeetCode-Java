@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0143-reorder-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Linked List
 |  |
 | ------- |
@@ -81,4 +83,5 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0707-design-linked-list) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
