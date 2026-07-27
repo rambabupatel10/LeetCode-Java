@@ -73,6 +73,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0707-design-linked-list) |
