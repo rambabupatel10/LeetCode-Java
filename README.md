@@ -74,11 +74,13 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0203-remove-linked-list-elements) |
 ## Design
 |  |
 | ------- |
