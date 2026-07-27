@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -78,6 +79,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0707-design-linked-list) |
@@ -96,4 +98,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
