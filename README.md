@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Two Pointers
 |  |
@@ -21,11 +22,13 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -111,4 +115,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0901-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
