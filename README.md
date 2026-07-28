@@ -72,6 +72,7 @@
 | [0143-reorder-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0901-online-stock-span](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Linked List
 |  |
@@ -95,10 +96,19 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
