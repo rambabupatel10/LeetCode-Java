@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Two Pointers
 |  |
