@@ -95,6 +95,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
