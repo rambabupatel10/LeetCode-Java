@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0704-binary-search) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -36,6 +37,7 @@
 | [0035-search-insert-position](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
