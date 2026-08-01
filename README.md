@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0704-binary-search) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -84,6 +85,7 @@
 | [0143-reorder-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Linked List
@@ -122,6 +124,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
