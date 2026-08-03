@@ -11,6 +11,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0704-binary-search) |
