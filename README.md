@@ -99,6 +99,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Linked List
 |  |
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
