@@ -148,6 +148,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
@@ -155,6 +156,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
