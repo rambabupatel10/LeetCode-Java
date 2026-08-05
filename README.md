@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2595-number-of-even-and-odd-bits) |
 ## Simulation
 |  |
 | ------- |
