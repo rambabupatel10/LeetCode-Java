@@ -146,20 +146,24 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2595-number-of-even-and-odd-bits) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0067-add-binary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
