@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0877-stone-game) |
 ## Tree
 |  |
@@ -159,6 +160,7 @@
 | [0029-divide-two-integers](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2595-number-of-even-and-odd-bits) |
 ## Simulation
