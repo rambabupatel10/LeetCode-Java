@@ -24,6 +24,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1539-kth-missing-positive-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0141-linked-list-cycle](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0338-counting-bits](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2595-number-of-even-and-odd-bits) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Simulation
 |  |
 | ------- |
