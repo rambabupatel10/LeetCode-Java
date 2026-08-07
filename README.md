@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -61,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0877-stone-game) |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
