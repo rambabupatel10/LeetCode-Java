@@ -9,32 +9,28 @@
  * }
  */
 class Solution {
-    public static ListNode reverse(ListNode head){
-        ListNode curr=head;
-        ListNode prev=null;
-        ListNode next;
-        while(curr != null){
-            next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next;
-        }
-        return prev;      
-    }
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode head1=reverse(l1);
-        ListNode head2=reverse(l2);
+        Stack<Integer> s1=new Stack<>();
+        Stack<Integer> s2=new Stack<>();
+        while(l1 != null){
+            s1.push(l1.val);
+            l1=l1.next;
+        }
+        while(l2 != null){
+            s2.push(l2.val);
+            l2=l2.next;
+        }
         int carry=0;
         int sum=0;
         ListNode ans=new ListNode();
-        while(head1 != null|| head2 != null){
-            if(head1 !=null){
-                sum+=head1.val;
-                head1=head1.next;
+        while(!s1.isEmpty()|| !s2.isEmpty()){
+            if(!s1.isEmpty()){
+                sum+=s1.peek();
+                s1.pop();
             }
-            if(head2 !=null){
-                sum+=head2.val;
-                head2=head2.next;
+             if(!s2.isEmpty()){
+                sum+=s2.peek();
+                s2.pop();
             }
             ans.val=sum %10;
             carry=sum / 10;
