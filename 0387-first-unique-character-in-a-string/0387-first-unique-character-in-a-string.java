@@ -6,14 +6,13 @@ class Solution {
             char ch=s.charAt(i);
             q.add(i);
             freq[ch-'a']++;
-
-            while(!q.isEmpty() && freq[s.charAt(q.peek()) - 'a'] > 1){
-                q.remove();
-            } 
         }
-         if(q.isEmpty()){
-                return -1;
+        for(int i=0;i<s.length();i++){
+            if(freq[s.charAt(i)-'a']==1){
+                return i;
             }
-        return q.peek();
+        }
+        return -1;
+           
     }
 }
