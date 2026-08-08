@@ -107,6 +107,7 @@
 | [0143-reorder-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
@@ -140,6 +141,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0901-online-stock-span) |
@@ -210,5 +212,6 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
