@@ -152,6 +152,7 @@
 | [0141-linked-list-cycle](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Monotonic Stack
 |  |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0067-add-binary) |
+| [0387-first-unique-character-in-a-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Minimax
 |  |
@@ -214,4 +216,9 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
