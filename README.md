@@ -153,6 +153,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Monotonic Stack
 |  |
@@ -182,6 +183,7 @@
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2595-number-of-even-and-odd-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Simulation
@@ -195,6 +197,7 @@
 | [0067-add-binary](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2351-first-letter-to-appear-twice) |
 ## Minimax
 |  |
 | ------- |
@@ -221,4 +224,5 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
