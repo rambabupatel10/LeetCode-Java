@@ -25,6 +25,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1539-kth-missing-positive-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
@@ -115,6 +116,7 @@
 | [0901-online-stock-span](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0067-add-binary) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -222,6 +225,7 @@
 | [0225-implement-stack-using-queues](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
