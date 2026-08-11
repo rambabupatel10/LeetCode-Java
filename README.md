@@ -27,6 +27,7 @@
 | [1539-kth-missing-positive-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2643-row-with-maximum-ones) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
