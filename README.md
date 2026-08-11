@@ -55,6 +55,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -231,4 +232,8 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2351-first-letter-to-appear-twice) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
