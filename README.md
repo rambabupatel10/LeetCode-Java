@@ -56,6 +56,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0704-binary-search) |
@@ -178,6 +179,7 @@
 | [0067-add-binary](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0877-stone-game) |
 ## Bit Manipulation
