@@ -10,7 +10,7 @@ class Solution {
     int end=max;
     while(start <= end){
         int  mid=start+(end-start)/2;
-        long sum=0;
+        int sum=0;
         for(int i=0;i<nums.length;i++){
             sum += (nums[i] + mid - 1) / mid;
         }
