@@ -23,6 +23,7 @@
 | [0704-binary-search](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0877-stone-game) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1539-kth-missing-positive-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
@@ -62,6 +63,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
