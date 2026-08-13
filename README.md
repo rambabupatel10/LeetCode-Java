@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0162-find-peak-element) |
@@ -250,4 +251,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0374-guess-number-higher-or-lower) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
