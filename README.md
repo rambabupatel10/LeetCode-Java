@@ -255,4 +255,8 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0134-gas-station) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
