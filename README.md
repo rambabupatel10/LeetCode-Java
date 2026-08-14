@@ -23,6 +23,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0877-stone-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -128,6 +129,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
