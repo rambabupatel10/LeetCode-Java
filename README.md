@@ -33,6 +33,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1539-kth-missing-positive-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2643-row-with-maximum-ones) |
