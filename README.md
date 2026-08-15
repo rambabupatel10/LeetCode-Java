@@ -14,6 +14,7 @@
 | [0134-gas-station](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0268-missing-number) |
