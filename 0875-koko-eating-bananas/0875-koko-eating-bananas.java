@@ -12,7 +12,7 @@ class Solution {
             int mid=start+(end-start)/2;
             long k=0;
             for(int i=0;i<piles.length;i++){
-                k +=(piles[i] + mid - 1) / mid;
+                k +=Math.ceil((double)piles[i]/mid);
             }
             if(k<=h){
                 end=mid-1;
