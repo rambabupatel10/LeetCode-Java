@@ -30,6 +30,7 @@
 | [0875-koko-eating-bananas](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0896-monotonic-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -93,6 +94,7 @@
 | [0152-maximum-product-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Tree
 |  |
@@ -254,12 +256,14 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
@@ -290,4 +294,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0572-subtree-of-another-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
