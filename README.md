@@ -34,6 +34,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1539-kth-missing-positive-number](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rambabupatel10/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -90,6 +91,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/rambabupatel10/LeetCode-Java/tree/master/0877-stone-game) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rambabupatel10/LeetCode-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Tree
 |  |
 | ------- |
