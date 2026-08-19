@@ -18,16 +18,16 @@ class Solution {
                 element++;
             }
             for(int j=endingColumn-1;j>=startingColumn;j--){
-                if(startingRow==endingRow){
-                    break;
-                }
+                // if(startingRow==endingRow){
+                //     break;
+                // }
                 matrix[endingRow][j]=element;
                 element++;
             }
             for(int i=endingRow-1;i>=startingRow+1;i--){
-                if(startingColumn==endingColumn){
-                    break;
-                }
+                // if(startingColumn==endingColumn){
+                //     break;
+                // }
                 matrix[i][startingColumn]=element;
                 element++;
             }
