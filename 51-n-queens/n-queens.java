@@ -24,7 +24,7 @@ class Solution {
 
     public void nQueens(char board[][], int row, List<List<String>> ans) {
 
-          if (row == board.length) {
+        if (row == board.length) {
             List<String> current = new ArrayList<>();
             for (int i = 0; i < board.length; i++) {
                 current.add(new String(board[i]));
@@ -32,10 +32,10 @@ class Solution {
             ans.add(current);
             return;
         }
-         for (int col = 0; col < board.length; col++) {
+        for (int col = 0; col < board.length; col++) {
 
             if (isSafe(board, row, col)) {
-                board[row][col] = 'Q';               
+                board[row][col] = 'Q';
                 nQueens(board, row + 1, ans);
                 board[row][col] = '.';
             }
@@ -43,7 +43,7 @@ class Solution {
     }
 
     public List<List<String>> solveNQueens(int n) {
-         List<List<String>> ans = new ArrayList<>();
+        List<List<String>> ans = new ArrayList<>();
 
         char board[][] = new char[n][n];
 
