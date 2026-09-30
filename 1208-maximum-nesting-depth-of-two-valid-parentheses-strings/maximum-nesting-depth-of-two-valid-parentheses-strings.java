@@ -6,19 +6,9 @@ class Solution {
             char ch=seq.charAt(i);
             if(ch=='('){
                 depth++;
-                if(depth % 2 == 0) {
-                    ans[i] = 0;
+                    ans[i] = depth % 2;
                 } else {
-                    ans[i] = 1;
-                }
-            } else if(ch == ')') { 
-                
-                if(depth % 2 == 0) { 
-                    ans[i] = 0; 
-                } else { 
-                    ans[i] = 1; 
-                } 
-
+                    ans[i] =depth % 2;
                 depth--; 
             } 
         } 
