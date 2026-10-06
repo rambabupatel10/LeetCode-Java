@@ -1,6 +1,6 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int ans=0;
+        int answer=0;
         Stack<Character>stk=new Stack<>();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
@@ -11,11 +11,11 @@ class Solution {
                     stk.pop();
                 }
                 else{
-                    ans++;
+                    answer++;
                 }
             }
         }
-        return ans+stk.size();
+        return answer+stk.size();
 
         
     }
