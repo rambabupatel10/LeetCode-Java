@@ -26,6 +26,6 @@ class Solution {
         if(root.left==null && root.right==null){
             return sum==targetSum;
         }
-        return  check(root.left,sum,targetSum)||check(root.right,sum,targetSum);
+        return check(root.left,sum,targetSum)||check(root.right,sum,targetSum);
         }
 }
