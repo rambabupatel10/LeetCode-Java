@@ -10,6 +10,5 @@ class Solution {
             i--;
         }
         return count;
-        
     }
 }
