@@ -49,8 +49,7 @@ class Solution {
         return false;
     }
     public String getDirections(TreeNode root, int startValue,int destValue) {
-        TreeNode lca = lowestCommonAncestor(
-            root, startValue, destValue);
+        TreeNode lca = lowestCommonAncestor(root, startValue, destValue);
         StringBuilder startPath = new StringBuilder();
         StringBuilder destPath = new StringBuilder();
         findPath(lca, startValue, startPath);
