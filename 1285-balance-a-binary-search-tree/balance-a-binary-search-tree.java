@@ -14,11 +14,10 @@
  * }
  */
 class Solution {
-    List<Integer> list=new ArrayList<>();
+    ArrayList<Integer> list=new ArrayList<>();
     public TreeNode balanceBST(TreeNode root) {
         preorder(root);
         return buildTree(0,list.size()-1);
-        
     }
     public void preorder(TreeNode root){
         if (root==null){
